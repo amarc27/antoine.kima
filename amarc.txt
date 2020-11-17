@@ -4,18 +4,18 @@
 Hi Kima Team 👋
 
 My name is Antoine, and I hope to be your next "<span id="k">rockstar intern</span>".
-I already filled the typeform, but I wanted to provide you with more informations and try to make an unusual application.
+I already filled the typeform, but I wanted to provide you with more informations and try to make an original application.
 
-I have been a student at school 42 for 2 years, specialising in web, algorithms and data science.
+I have been a student at school 42 for 2 years, specializing in web, algorithms and data science.
 
-Before 42 I did a bachelor's degree in economics and management with a specialization in finance at the Sorbonne, during which I did several internships in entrepreneurship and finance (Huawei, HEC Incubator at StationF, or a startup in New York), set up a web agency with other students from 42, participated in a presidential campaign, and worked at the Elysée on digital communication and website.
+Before 42 I did a bachelor's degree in economics and management with a major in finance at the Sorbonne, during which I did several internships in entrepreneurship and finance (Huawei, HEC Incubator at StationF, or a startup in New York), set up a web agency with other students from 42, participated in a presidential campaign, and worked at the Elysée on digital communication and website.
 
-In September, I finished a 4-month internship at Tao Partner, an investement bank specialised in corporate finance (M&A, LBO, and fund raising).
+In September, I finished a 4-month internship at Tao Partner, an investement bank specialized in corporate finance (M&A, LBO, and fund raising).
 
 
 If possible, I would like to have the opportunity to talk about Kima Ventures and my experiences with you, and to show you my motivation to join your team.
 
-Here is my <a href="link"> resume</a>
+Here is my <a href="https://github.com/amarc27/antoine.kima/blob/main/CV%20-%20Antoine%20MARC.pdf" target="_blank"> resume</a>
 
 <p>Thank you for your time </p>
 
